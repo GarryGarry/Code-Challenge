@@ -1,0 +1,26 @@
+
+.Table {
+    margin-top:1rem
+}
+
+.Image {
+height:3em
+}
+
+.Title {
+    background-color: #8A2BE2;
+}
+
+.Jump{
+    color:white
+}
+
+.Horse {
+    height: 3em;
+}
+
+.Thead {
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+}
+
